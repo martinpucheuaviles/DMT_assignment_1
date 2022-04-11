@@ -1,0 +1,305 @@
+﻿Tijdstempel;What programme are you in?;Have you taken a course on machine learning?;Have you taken a course on information retrieval?;Have you taken a course on statistics?;Have you taken a course on databases?;What is your gender?;Chocolate makes you.....;When is your birthday (date)?;Number of neighbors sitting around you?;Did you stand up?;What is your stress level (0-100)?;You can get 100 euros if you win a local DM competition, or we don’t hold any competitions and I give everyone some money (not the same amount!). How much do you think you would deserve then? ;Give a random number;Time you went to be Yesterday;What makes a good day for you (1)?;What makes a good day for you (2)?
+4-5-2022 12:12:07;artificial intelligence;yes;0;mu;nee;female;neither;02.05.1998;0;no;0;5;888;23:00;coffee;sun
+4-5-2022 12:12:07;big data;yes;0;mu;nee;male;fat;29-02-2000;0;yes;200;1;12;32;7777;8964
+4-5-2022 12:12:09;Computational  Science;yes;1;mu;ja;male;fat;29-06-1998;1;no;0;100;9;x;0;0
+4-5-2022 12:12:09;Bioinformatics and Systems Biology;yes;0;unknown;nee;male;neither;11/05/97;0;no;20;100;31;14:00;good food;no stress
+4-5-2022 12:12:15;AI;yes;1;mu;ja;male;fat;03-10-1997;0;no;2;100;86;07:20;Sunshine;Good Food
+4-5-2022 12:12:20;Artificial Intelligence;no;unknown;sigma;unknown;female;fat;28;0;no;48;1000;87;2130;This lecture;Sun
+4-5-2022 12:12:26;Artificial Intelligence ;yes;0;unknown;nee;male;neither;15.10.98;1;no;20;0.1;6;00:35;sunshine;happiness
+4-5-2022 12:12:29;M Artificial Intelligence;yes;0;unknown;ja;male;neither;17 November;0;no;100;10;50;23;Rainy Day;Weekend
+4-5-2022 12:12:29;FinTech;yes;0;mu;ja;male;neither;1995;0;no;20;100 / the number of people;42;23:00;Food;Relaxation
+4-5-2022 12:12:29;Artificial Intelligence;no;0;mu;ja;female;fat;21-07-2000;5;yes;50;10;88;12 hours;pa;relaxing, watching a show, hockey
+4-5-2022 12:12:31;Artificial Intelligence MsC;no;0;mu;nee;male;I have no idea what you are talking about;29-05-1998;0;no;60;1000;1;Banana;Coffee;Not coffee
+4-5-2022 12:12:32;Business analytics;yes;1;unknown;ja;female;fat;05-03;0;no;50;0.1;56;00:00;sun;holiday
+4-5-2022 12:12:34;ai;yes;1;mu;ja;male;I have no idea what you are talking about;0102;0;no;5000;100;7;to be?;drugs;beer
+4-5-2022 12:12:36;programme?;no;0;mu;nee;male;fat;19/10/1982;0;yes;65;100;8;00:00;Good sleep;Good work
+4-5-2022 12:12:42;Masters in Artificial Intelligence;yes;0;mu;ja;male;fat;22/02/1999;0;yes;70;100;420;12:00;Good mental state.;A challenge.
+4-5-2022 12:12:50;Msc. Information Studies Data Science Track UVA ;yes;1;mu;ja;male;neither;23/7;-4;unknown;over 9000;1000;42;4 years ago;6;9
+4-5-2022 12:12:51;Artificial Intelligence;no;0;sigma;nee;male;slim;august;5;no;98;87;6;noon;food;sleeping
+4-5-2022 12:12:57;Artificial Intelligence;no;unknown;mu;ja;female;fat;11-11-1999;0;no;34;5;88;12:55;Having a fun lecture;Hanging out with my friends
+4-5-2022 12:13:04;AI;yes;0;mu;ja;male;fat;22-04-1994;1;no;70;1/n;22;12;Flat white;sun
+4-5-2022 12:13:08;Econometrics and Operational Research;yes;0;mu;nee;male;fat;30.01.1997;0;no;15;0;17;12;food;tv series
+4-5-2022 12:13:11;Finance and Technology;yes;0;mu;nee;male;I have no idea what you are talking about;1999/08/23;11;yes;60;100;0;20:00;sun;good food
+4-5-2022 12:13:14;Computer science;yes;1;unknown;ja;female;I have no idea what you are talking about;10.07.1998;3;no;1000;at least 10;12;definitely 7;sun;wind:(
+4-5-2022 12:13:15;AI;unknown;0;mu;nee;female;fat;03-11-1995;0;unknown;10;100;800039995;03:00;Friends;Water
+4-5-2022 12:13:15;AI;yes;1;mu;ja;female;neither;08-05-1998;0;no;90;10;72;Ja;Happy;Faces
+4-5-2022 12:13:15;Bioinformatics and Systems Biology;yes;0;mu;ja;male;I have no idea what you are talking about;Ah;2;no;1;5€;27;2.30AM;See you smile;Monk
+4-5-2022 12:13:16;Business Analytics;yes;unknown;mu;nee;female;fat;30-03-1998;0;no;70;55;31;Yellow;Having my favorite meal :);Getting enough sleep
+4-5-2022 12:13:16;Computational Science;no;0;mu;ja;male;I have no idea what you are talking about;01-09-1998;1;no;56;The price of Febo kroketje;6.98;23:32;Head;Good weather
+4-5-2022 12:13:18;Computational Science;yes;0;mu;nee;female;neither;07-09-1997;1;no;69;0;6;?;A good balance between productivity and rest;A good night of sleep
+4-5-2022 12:13:19;chrome;yes;0;sigma;ja;female;fat;02/07/1997;2;yes;79;55;11;12;Movies;Coffee
+4-5-2022 12:13:24;Computational Science;no;0;mu;nee;male;I have no idea what you are talking about;19-06-1998;1;no;33;99;3.14;23.30;Good food;Good weather
+4-5-2022 12:13:24;MSc Mathematics;yes;0;mu;nee;female;I have no idea what you are talking about;26/08/97;2;no;80;30;32;12:30;Sunnnn;Croissant
+4-5-2022 12:13:26;Artificial Intelligence;yes;0;mu;nee;female;neither;1999;1;no;10;0,5;1278946;90;alcohol;relax
+4-5-2022 12:13:26;Econometrics;yes;0;mu;nee;male;I have no idea what you are talking about;1-1-1900;0;yes;100;1;651;23;Datamining;Datamining2
+4-5-2022 12:13:29;AI for health;no;0;sigma;nee;female;neither;01/04/2022;20;no;90;A lot;24;5;food;sleep
+4-5-2022 12:13:34;AI;no;0;sigma;ja;male;I have no idea what you are talking about;14.05.1996;5;no;70;20;2500;5;Weather;Beer
+4-5-2022 12:13:35;Data Mining techniques;yes;unknown;mu;nee;male;fat;March 9, 1995;0;no;40;0;42;What?;Sex;Good food
+4-5-2022 12:13:37;computer scienece;yes;1;mu;ja;male;I have no idea what you are talking about;2.18;0;no;69;2;6;?;1;1
+4-5-2022 12:13:39;Artificial Intelligence;yes;1;mu;ja;male;I have no idea what you are talking about;02/11/1996;1;no;69;1 cent;420;01.30;Working hard;Playing volleyball
+4-5-2022 12:13:41;Msc AI @ UvA;yes;1;mu;ja;male;fat;02-10-1998;0;no;45;200;-1;1:34;Sunshine;Friends
+4-5-2022 12:13:41;Econometrics & Operations Research;yes;0;mu;ja;male;fat;09-06-1998;0;no;7;0.60;1946;09:00;Beer;Ajax
+4-5-2022 12:13:43;Master Artificial Intelligence;yes;1;unknown;nee;female;neither;12 july;0;no;33;77;88;midnight;good night of sleep;good food
+4-5-2022 12:13:43;Computational Science;no;0;sigma;nee;female;I have no idea what you are talking about;27-06-1998;0;no;40;5 euros :));36;huh;Good weather;Nice people around
+4-5-2022 12:13:44;Artificial intelligence ;no;0;mu;nee;male;slim;-600 BC;666;yes;101;Billion;666;Yesterday;Saturday;Saturday
+4-5-2022 12:13:45;Artificial Intelligence ;no;0;mu;nee;female;slim;10-06-1998;2;no;70;10 cents;765;11;Seeing Friends;Nice weather
+4-5-2022 12:13:47;Data Science;yes;unknown;mu;ja;male;fat;30-08-1997;0;no;20;100;3;23:30;Satisfaction;Spare time
+4-5-2022 12:13:47;MSc Econometrics & Operations Research;yes;0;mu;ja;male;neither;01-01;0;no;60;100/100;81;1;2;4
+4-5-2022 12:13:49;Computational science;yes;0;unknown;nee;male;fat;08-05-1998;1;no;0;100;109;23:00;sun;beach
+4-5-2022 12:13:50;AI;yes;1;mu;ja;male;I have no idea what you are talking about;09-04-1997;0;no;20;20;4444;0200;sun;holiday
+4-5-2022 12:13:51;Bioinformatics and Systems Biology;yes;0;mu;nee;male;unknown;January 1 1997;0;no;10;5;94;Today;Chocolate;Clear skies
+4-5-2022 12:13:54;AI;no;0;mu;nee;male;I have no idea what you are talking about;22-07-1992;7;no;50;80;9999;Haha;Yes;No
+4-5-2022 12:13:54;Computational Science;yes;0;mu;ja;female;I have no idea what you are talking about;03.04.2000;1;unknown;5;100;1;4;sun;gym
+4-5-2022 12:13:57;MSc AI;no;0;sigma;unknown;not willing to answer;neither;07/09/1999;1;no;88;5;401;01:00;Snacks;Good grades
+4-5-2022 12:13:58;Artificial Intelligence;yes;unknown;mu;ja;female;neither;30-08-1999;0;no;60;50 euros;7;10:00 pm;With family and loved ones;Being in good health
+4-5-2022 12:13:59;Business Analytics;yes;1;mu;ja;male;I have no idea what you are talking about;15-03-2000;2;no;75;20;19;23:45;Sun;Sleep
+4-5-2022 12:14:00;AI;yes;1;mu;ja;male;I have no idea what you are talking about;24.06.1998;2;unknown;69;100;42;24;Beer;More beer
+4-5-2022 12:14:05;MSc AI;yes;0;mu;nee;intersex;neither;15/02/1974;45;no;34;99;1;12.00;Cookies;I don't know 
+4-5-2022 12:14:05;Bioinformatics and systems biology msc;yes;0;sigma;nee;male;unknown;24-9;4;no;50;100;7;Yes;Food;Food
+4-5-2022 12:14:06;CS;yes;unknown;mu;ja;female;unknown;02/07/1997;0;no;99;28052;77;N/A;Biking ;Books
+4-5-2022 12:14:06;Bioinformatics;yes;0;unknown;nee;male;I have no idea what you are talking about;4;5;no;99;100;77;00:34;waking up early;finishing things for the day
+4-5-2022 12:14:10;Artificial Intelligence;yes;0;mu;ja;male;fat;19-10-1998;6;no;30;20;69;13:15;Gym;Friends
+4-5-2022 12:14:11;Econometrics;yes;1;mu;ja;male;neither;13-07;1;no;50;100;69;7;whole lotta bread;good wave check
+4-5-2022 12:14:12;AI;yes;0;mu;ja;male;fat;19-02-1998;1;yes;20;1000;864687452;Gym;Food;Good coffee
+4-5-2022 12:14:12;MSc AI;no;0;mu;nee;gender fluid;I have no idea what you are talking about;08.08.1997;0;no;69;69;420;2.00;420;69
+4-5-2022 12:14:14;Data mining tekkers ;no;unknown;mu;ja;gender fluid;slim;23 December ;1;yes;34;100;280;23:00;Having a snickers ;Food
+4-5-2022 12:14:14;Computational Science;no;0;mu;nee;male;I have no idea what you are talking about;28.07.1997;2;no;40;An appropriate amount;67;22:30;Free food;Free coffee
+4-5-2022 12:14:15;AI;yes;0;sigma;nee;male;neither;fifteenth of december nineteenhundredninetyfive;0;no;1;3.50;2;15:30;Sunshine;Chocolate Milk
+4-5-2022 12:14:15;Bioinformatics ;yes;0;unknown;nee;female;slim;19971205;2;no;65;100;33;12;sleep;eat
+4-5-2022 12:14:18;Computer Science;no;0;mu;ja;not willing to answer;neither;01-01-2001;0;no;999;(100/627)~0.157;2;yes;alive;awake
+4-5-2022 12:14:19;Econometrics and Operations Research;no;0;sigma;nee;female;neither;december 9th;0;no;80;a lot;8271;11pm;sun;not rain
+4-5-2022 12:14:20;Master of Computer science ;yes;0;mu;ja;male;fat;1999/7/12;0;no;10;I prefer not holding competitions and receiving money everone;17;2 am;Sunshine;Good sex
+4-5-2022 12:14:22;Computer science;yes;1;mu;ja;male;fat;12-09-1999;1;no;100;1000000;4;2300;No deadlines/exam;Good weather
+4-5-2022 12:14:23;Business Analytics;yes;1;mu;ja;male;unknown;06-12-1994;sigma;no;99;0;42;0530 am;waking up ;eating
+4-5-2022 12:14:24;Computer Science;no;0;mu;nee;male;I have no idea what you are talking about;20-08-1999;0;no;200;20;2;12;Food;Sleep
+4-5-2022 12:14:24;Duisenberg Honours Programme in Quantitative Risk Management;no;0;mu;nee;male;I have no idea what you are talking about;06/12/1997;2;yes;1E+22;12;0;13:12;alcohol;10
+4-5-2022 12:14:27;Medical Natural Sciences;yes;0;mu;unknown;male;I have no idea what you are talking about;10-07-1995;2;unknown;42;30;365;01.00;Good food and sports;Friends
+4-5-2022 12:14:28;MPA;no;0;mu;nee;male;fat;06-09-1997;1;no;80;5;33;4 o' clock;being stoic;accepting change
+4-5-2022 12:14:29;computational science;no;0;mu;ja;male;fat;03/03/1997;0;no;50;10;5;4:35;game;beautiful girl
+4-5-2022 12:14:29;Computational science ;no;0;mu;nee;male;slim;18 of January ;5;yes;100;100;41;12;Kissing thomas;Alcohol 
+4-5-2022 12:14:30;None;no;0;unknown;nee;female;neither;25-04-2001;3;yes;60;0;36;12;Joy;More jou
+4-5-2022 12:14:31;AI;yes;0;mu;nee;male;neither;20/11/1998;1;no;50;20;69;2:00;Sex;Sex
+4-5-2022 12:14:33;Computational Science;yes;1;unknown;ja;male;slim;July 23;1;yes;10;100;73;12:00;Reading;Music
+4-5-2022 12:14:34;AI;yes;0;unknown;nee;male;neither;20/03/1998;2;yes;61;3.50;029384750928347509832475908347529803475982347598237459802374980572349805723489573298576893475983274598723498572349805738904759082345702345897349857;Wot;Cake;Pie
+4-5-2022 12:14:36;Computer Science ;yes;unknown;mu;ja;male;neither;20;3;yes;100;100;42;10:45;No lectures ;No assignments 
+4-5-2022 12:14:37;Business Analytics;yes;1;mu;nee;female;fat;19.05.1996;0;no;89;2;86;20.09;Food;Completed to-do's
+4-5-2022 12:14:40;AI;yes;0;mu;nee;male;I have no idea what you are talking about;02/11/1896;5;unknown;1000;0;980000000000000789;00:00;Beer;Beer
+4-5-2022 12:14:42;Master Artificial Intelligence;yes;1;mu;nee;female;neither;13-02-2001;0;no;yes.;1 million euros;432;10;Frozen yoghurt;Coffee
+4-5-2022 12:14:43;Computer science - BDE;no;1;mu;ja;male;fat;1999.1.24;1;no;100;100;88;22:00;Eat food ;Sleep 
+4-5-2022 12:14:44;Business analytics ;yes;unknown;mu;ja;male;slim;04/04/1999;1;no;10;100;3;24;Chocolate ;Sun
+4-5-2022 12:14:46;Computer science;yes;0;mu;ja;male;fat;1997.03.01;3;no;0;100;42;12;Passing assignments ;Passing exams
+4-5-2022 12:14:48;Human Language Technology;yes;0;unknown;nee;female;fat;Oct 11;3;no;80;50;100;12:45;no homework;earn money
+4-5-2022 12:14:53;Cheese;yes;0;mu;ja;gender fluid;fat;6/9/420;-2;yes;101;100;10.3;6 am;Drugs ;Sex
+4-5-2022 12:14:57;MSc. AI at UvA ;yes;1;unknown;nee;female;neither;31-5-2000;2;no;60;10;14;23;Sun;Day off
+4-5-2022 12:14:57;Econometrics and Data Science;yes;0;unknown;ja;male;fat;11 October;0;no;30;500;6;7 hours;No complications;Sport
+4-5-2022 12:14:57;Computational Science;no;0;mu;nee;female;neither;01-01-1900;6;unknown;150;0;3645;12;chocolate;more chocolate
+4-5-2022 12:14:59;Masters Computer Science ;yes;0;mu;ja;male;I have no idea what you are talking about;27-03-1998;1;no;100;100000;987654321;12.15;Playing;Studying 
+4-5-2022 12:15:02;AI;no;unknown;unknown;nee;gender fluid;I have no idea what you are talking about;6 May ;2;no;Over 9000;You don’t owe me anything ;Π;Ω;Χρεσης;Φετα
+4-5-2022 12:15:02;QRM;no;0;mu;nee;female;neither;04.08.1998;0;no;80;100;69;9.00 am;Good sleep;No class
+4-5-2022 12:15:07;Msc AI;yes;1;mu;ja;male;neither;16/08;0;no;1000;100;7;I do not know;sun;sun x 2
+4-5-2022 12:15:09;Computer Science;yes;1;mu;ja;male;neither;13/03;7;no;40;100/n;69;10:00;Food;Sleep
+4-5-2022 12:15:09;MSc Bioinformatics;yes;0;mu;nee;female;neither;11/13;2;no;10;100;6;00:45;food;friends
+4-5-2022 12:15:12;Masters AI ;yes;1;mu;ja;female;I have no idea what you are talking about;08-06-1999;a couple;no;100;20;3;11.30pm;coffee;pasta
+4-5-2022 12:15:12;PDCS;no;unknown;unknown;nee;male;I have no idea what you are talking about;01/12/1982;250;no;10;10;227;6;Good coffee;Challeging works
+4-5-2022 12:15:13;Business Analytics Master (Computational Intelligence track);yes;0;sigma;ja;female;neither;21-10-2000;7;no;60;70;247;23:00;Sun;Food
+4-5-2022 12:15:15;Artificial Intelligence;yes;0;mu;nee;male;fat;11.03.98;0;no;44;24.99;57;10:21:39;EDDA grades;sun
+4-5-2022 12:15:16;Ai;yes;0;mu;ja;not willing to answer;I have no idea what you are talking about;4/20/1969;1;unknown;3;0;73553801531488322931570535984775796225797789;4:20;Surveys;Data mining
+4-5-2022 12:15:16;SEG;unknown;1;sigma;ja;male;I have no idea what you are talking about;25.10.1998;many;no;101;100;666;idk;no dues;no school
+4-5-2022 12:15:16;advanced;no;0;mu;ja;female;fat;4.22;4;no;88;100 euros;42;12;delicious food;friends company
+4-5-2022 12:15:18;AI;no;0;mu;nee;male;fat;08.03.1999;3;unknown;100;7;94736253;00:55;Love 😓;Friends
+4-5-2022 12:15:18;Computer science;yes;0;unknown;ja;not willing to answer;neither;11-02-1999;4;unknown;10;25;1947271047294720^10204847;23:30;Xtc;Money
+4-5-2022 12:15:20;CS;yes;1;mu;ja;male;slim;13-10-95;2;no;50;50;13;12;Kafeneion Amsterdam ;More Kafeneion Amsterdam 
+4-5-2022 12:15:21;cs;no;1;mu;ja;female;I have no idea what you are talking about;1997.04.03;2;no;20;100;97;today;sleep;date
+4-5-2022 12:15:25;AI;yes;1;mu;ja;female;fat;22-11-1998;1;no;5;2;56;0100;Sunshine;Free time
+4-5-2022 12:15:25;Computer Science;yes;1;mu;ja;female;fat;26-05;1;no;5;10;7;23:30;a nice dinner;the sun
+4-5-2022 12:15:27;CS;yes;0;sigma;ja;male;neither;07-04-1998;300;no;10;1000;7;01:30;Fun people;Beer
+4-5-2022 12:15:29;Bioinformatics & Systems Biology;yes;0;mu;ja;male;fat;04/09/1997;1;no;0;20;25;21:20;food;sleep
+4-5-2022 12:15:30;Artificial intelligence master;no;0;mu;ja;female;neither;20.10.1996;3;no;40;10eur;567;2am;Flow state;Good food
+4-5-2022 12:15:32;big data;yes;unknown;mu;ja;female;fat;1999;1;no;40;50;58;45;1;1
+4-5-2022 12:15:37;AI;yes;0;mu;ja;female;fat;01/01/1998;1;no;0;50;23;3AM;food;being with the people i love
+4-5-2022 12:15:38;Artificial Intelligence;yes;0;mu;ja;female;slim;25-03-1999;2;no;3;66;43;23:30;Coffee;Food
+4-5-2022 12:15:41;Computational Science;no;0;mu;nee;male;fat;08-05-1998;0;no;69;69,69;69;01:30;Sun;Wine
+4-5-2022 12:15:41;QRM;yes;0;mu;nee;male;fat;Qwerty-keyboard;Master & Margarita;unknown;Next question;I deserve everything;No;Dizzy Miss Lizzy was a terrible song to end Help! with;Double fudge brownies;Angela
+4-5-2022 12:15:41;Artificial Intelligence;yes;0;mu;ja;male;fat;9-2;0;no;1;10;73;02:20;Sun;Weekend
+4-5-2022 12:15:42;Computational Science;unknown;unknown;unknown;unknown;female;neither;01.01.2000;5;no;10;69;9;1.00;sun;friends
+4-5-2022 12:15:42;Artificial Intelligence;yes;0;mu;ja;female;fat;08-08-1998;0;no;14;5;8;23:00;Party;Tennis
+4-5-2022 12:15:43;PhD;no;1;mu;nee;male;I have no idea what you are talking about;11-11-1995;7;yes;10;10;21;23:40;VIKINGS!;My house not burning down :)
+4-5-2022 12:15:43;Artificial Intelligence;no;1;mu;nee;male;slim;26-09-1998;0;no;69;99;42;05:00;sleep;deliocious food
+4-5-2022 12:15:44;Artificial Intelligence;no;0;mu;ja;male;fat;29/04/1991;5;no;40;1;5813;1am;Beers;Movies
+4-5-2022 12:15:44;Computational science ;no;0;mu;nee;male;I have no idea what you are talking about;25-12;2;unknown;0;0.6;7823;00;Lasagne;More lasagne
+4-5-2022 12:15:44;Msc Artificial Intelligence;yes;unknown;mu;ja;male;I have no idea what you are talking about;18/12/1997;1;no;30;30;36;20.30;Food football and sleep;Gym study and drinks
+4-5-2022 12:15:44;Master Artificial Intelligence at UvA;yes;1;mu;ja;female;neither;08/07/1997;1;yes;60;100;42;01.30;Traveling with friends ;Eating with family 
+4-5-2022 12:15:44;CS;no;0;mu;nee;male;neither;12/04/2000;1;no;60;0.10;88;23:00;Nice weather;Good food
+4-5-2022 12:15:45;AI;yes;1;mu;nee;male;I have no idea what you are talking about;2000;8;no;50;0.16;9;23:00;Coffee;Friends
+4-5-2022 12:15:45;Computational Science;no;0;mu;ja;male;I have no idea what you are talking about;27-11;0;no;40;What?;4;2:30;Lack of stress;Feeling productive
+4-5-2022 12:15:45;Artificial Intelligence ;yes;0;sigma;ja;female;fat;24/02/1997;0;no;30;IDK;47;11:30;SUNSHINE 😭;Laughter 
+4-5-2022 12:15:45;Data Mining Techniques;yes;0;mu;ja;male;neither;26-04-1996;0;no;20;10;76853;22:00;Sun;Spring
+4-5-2022 12:15:45;IS:DS;yes;unknown;mu;nee;male;fat;01-01-1900;1;no;75;0.15;7,66789E+13;11:45;Pizza;WFH
+4-5-2022 12:15:45;Bioinformatics;yes;0;mu;nee;male;slim;1-09;0;no;yes;1;8;00:40;Sushi;Anime
+4-5-2022 12:15:46;MSc AI;yes;0;mu;ja;female;neither;17-08-1998;0;yes;68;23;83;00:15;friends;sun
+4-5-2022 12:15:46;Business Analytics;yes;1;mu;ja;female;slim;22-07-1999;4;no;22;100;12;7:00;Food;A smile
+4-5-2022 12:15:46;MSc AI;no;0;mu;nee;female;fat;30-10-1997;0;no;70;7;3;00:07;sun;sex
+4-5-2022 12:15:47;AI;yes;0;mu;nee;female;fat;04-25-1997;1;no;30;10;60;23pm;food;love
+4-5-2022 12:15:47;Artificial Intelligence;no;1;unknown;ja;gender fluid;slim;30/21/1057;978000;no;-69;80;omega;4:15;music;videogames
+4-5-2022 12:15:47;MSc Bioinformatics and Systems Biology;yes;0;mu;unknown;female;neither;16-02-1998;0;no;47;7;83;4am;good food;sun
+4-5-2022 12:15:48;MSc Finance;no;0;mu;nee;male;I have no idea what you are talking about;02/04/1996;4;no;45;50;10;01:53;Sun ;Rain
+4-5-2022 12:15:48;AI;no;0;mu;nee;male;fat;18.03.1996;0;no;75;1;4;0:00;Sports;Meditation
+4-5-2022 12:15:48;MSc Computer science;no;0;sigma;ja;male;fat;22/05/1996;1;no;10;35;7;1 am;Good food;Good sex
+4-5-2022 12:15:48;Bioinformatics ;yes;0;mu;nee;male;neither;23-6;0;no;80;0.16;1;01.00;8 hours of sleep ;no stress about uni
+4-5-2022 12:15:48;business analytics;yes;0;mu;ja;female;fat;11-10-1999;0;no;40;5;8;00:00;Hours of sleep;Good food
+4-5-2022 12:15:49;Computational science;yes;unknown;mu;ja;not willing to answer;neither;somewhere between Januari and December;2;no;80;100/#people taking the course;4.34;03:00;Spending time with friends;Free time 
+4-5-2022 12:15:49;CS;yes;1;mu;ja;male;I have no idea what you are talking about;31 October;Zero;no;10;5;69;01:00;Friends;Food
+4-5-2022 12:15:49;PhD;yes;unknown;mu;unknown;female;fat;05-04-1998;0;no;50;1;68;23:15;Sunshine;Free time
+4-5-2022 12:15:49;Econometrics and data science;yes;0;mu;nee;male;fat;23-11-1996;0;no;33;88;8;01:00;good food;feyenoord winning
+4-5-2022 12:15:49;Msc Artificial Intelligence;yes;0;mu;nee;male;neither;16-07-1998;2;no;70;0.16;7;00.20;Good night;Fun stuff to do
+4-5-2022 12:15:49;AI;yes;unknown;mu;nee;male;fat;19.10.1997;1;yes;30;1000;42;01:00;coding;food
+4-5-2022 12:15:50;Data Science ;yes;1;mu;nee;female;I have no idea what you are talking about;23th of June;0;no;34;0,00006;651893;0:15h;Sleep;More Sleep
+4-5-2022 12:15:50;Business Analytics;yes;1;mu;ja;female;fat;29 Nov;1;no;20;1;9462648;23:00;Sun;Friends
+4-5-2022 12:15:50;Artificial Intelligence;yes;unknown;mu;ja;male;slim;1 September;5;no;60;5;68;23:00;Free;Warmth
+4-5-2022 12:15:50;Artificial Intelligence;no;0;mu;nee;male;I have no idea what you are talking about;18/04/1998;2;no;70;0;4;4.30;food;sleep
+4-5-2022 12:15:51;Msc AI;yes;1;mu;ja;male;I have no idea what you are talking about;20 december;1;unknown;20;5;521;23.30;Laughter;Friends
+4-5-2022 12:15:51;AI;no;0;mu;nee;male;fat;12-11-1996;0;no;75;5;77;23:00;Sunny;Vacation
+4-5-2022 12:15:51;MSc Artificial Intelligence;no;1;mu;ja;male;fat;19 June ;1;no;20;At least half 😎;69;12 am;Productive;good times with friends and family
+4-5-2022 12:15:51;Econometrics & Operations Research;no;0;mu;nee;male;neither;19-04-1999;1;yes;15;0;9664367943217790643378;23;Sex;Sports
+4-5-2022 12:15:52;Econometrics and Operations Research;no;0;mu;nee;female;neither;June 5th;0;no;100;1;3;03:00;feeling content;not too much stress
+4-5-2022 12:15:52;msc econometrics;no;0;mu;ja;male;I have no idea what you are talking about;21-04-1995;0;no;0;0,16;2230;2230;Sports;Drinking
+4-5-2022 12:15:52;Computational Science;no;0;sigma;nee;male;neither;11-11;0;yes;20;100;13;1am;A nice deep sleep;working out in the gym
+4-5-2022 12:15:52;CS;no;0;mu;ja;male;neither;16-10-1998;0;no;80;20;420;06:00;good sleep;good dinner
+4-5-2022 12:15:53;Artificial Intelligence;yes;0;mu;ja;female;I have no idea what you are talking about;16-07-1994;6;yes;36;6;163;21:43;Good food;Sunshine
+4-5-2022 12:15:53;Bioinformatics and Systems Biology;yes;0;mu;nee;male;fat;08-10-1999;5;no;50;0.50;3;23:45;Get up early;Don’t drink day before
+4-5-2022 12:15:53;MSc in Bioinformatics and Systems Biology;yes;0;sigma;nee;male;fat;14/04/1999;0;no;40;0;e;01:00;Sun;Food
+4-5-2022 12:15:53;Business Analytics;yes;1;mu;ja;female;fat;18-02-1999;0;no;60;1;18;23.45;Friends;Nice weather
+4-5-2022 12:15:54;Business Analytics;yes;unknown;mu;ja;female;fat;13-07-1998;0;no;12;1;2;00:12;Friends;Party
+4-5-2022 12:15:54;Engineering and Policy Analysis, TU Delft;no;0;mu;nee;female;neither;22-10-1998;2;no;60;10;4;23:00;Stresslevel;Social interaction
+4-5-2022 12:15:55;AI;no;0;mu;nee;female;neither;15.01;1;no;70;2;33;23:00;A lot of sleep;Time to read 
+4-5-2022 12:15:55;MSc Bioinformatics and Systems Biology;yes;0;mu;nee;female;neither;12-10 -1998;5;unknown;70;5;5;2:00am;Sun;good meal
+4-5-2022 12:15:56;QRM;no;0;sigma;nee;male;neither;August 3rd;1;no;75;60;3;12:00;Sunny;Beer
+4-5-2022 12:15:56;AI;yes;1;mu;ja;female;fat;18-06-1999;2;no;60;25;6;23:00;exercise;good food
+4-5-2022 12:15:56;Artificial Intelligence - Cognitive Science;yes;0;unknown;ja;male;neither;15081995;1;no;100;50;77;9 AM;Green;Food
+4-5-2022 12:15:56;AI;unknown;0;unknown;ja;male;neither;31-12-1999;0;no;100;1;24;02:00;Chocolate;Freedom
+4-5-2022 12:15:56;Business Analytics;yes;1;mu;ja;female;I have no idea what you are talking about;27-04-1997;0;no;20;0.16 ;37;22.30;Food;Friends
+4-5-2022 12:15:57;AI;yes;0;mu;nee;male;unknown;06.07.1997;2;yes;1;NaN;3;11:30;Nice weather;No EDDA
+4-5-2022 12:15:57;Artificial intelligence;yes;0;mu;ja;not willing to answer;I have no idea what you are talking about;11/11/1900;2;yes;69;100;56799;12 am;Beer;Sunday funday
+4-5-2022 12:15:57;Masters EOR;no;0;mu;nee;male;I have no idea what you are talking about;12/12/1996;0;no;85;10 euros;6;22:00;weather;no work
+4-5-2022 12:15:57;Bioinformatics & Systems Biology;yes;unknown;mu;ja;female;neither;03-06-1996;0;unknown;0;1;9;22:00;Food;Sleep
+4-5-2022 12:15:57;BA;yes;0;mu;nee;female;neither;27-01-1998;0;no;50;0,16;8;23:28;Good night of sleep;Low stress level
+4-5-2022 12:15:58;Artificial Intelligence;yes;0;mu;ja;female;I have no idea what you are talking about;26/02/1999;1;no;55;50;55;5:30;SUN;drinks with friends
+4-5-2022 12:15:58;Computer science;no;0;mu;ja;male;neither;1102;7;no;23;100;77;12;Successful debugging;Seeing my girlfriend 
+4-5-2022 12:15:58;CS;no;1;sigma;ja;male;neither;1996;3;no;40;100;66;2;Good Sleep;Diet on point
+4-5-2022 12:15:59;Artificial Intelligence;yes;0;mu;nee;male;I have no idea what you are talking about;01/10/1996;3;no;70;100;54.727.163.638.182.600.000.000.000.000.000.000.000;23:00;Being with friends;Eating good food
+4-5-2022 12:15:59;Human Language Technology;yes;1;sigma;ja;male;I have no idea what you are talking about;may the 4th be with you;>600;yes;7.5;0.1;987654321;22:30;Chocolate;Sun
+4-5-2022 12:15:59;EOR;yes;0;mu;ja;female;neither;15-07-1999;0;no;70;10;8;22:30;Sports;Activity
+4-5-2022 12:15:59;BA;yes;0;mu;nee;male;neither;18-08;4;no;11;6 cents;96274374;8 pm;A dm lecture;A dm QA
+4-5-2022 12:15:59;Bioinformatics & Systems Biology;yes;0;mu;nee;male;neither;19.03.1995;0;no;70;equal;78945;2:00;coffee in the morning;beer in the evening
+4-5-2022 12:15:59;F&T;yes;0;sigma;nee;male;fat;29/03;4;yes;100;100;7;2;3;2
+4-5-2022 12:16:00;Artificial Intelligence;unknown;1;mu;nee;male;I have no idea what you are talking about;24.08.1996;0;yes;11;1/n;42;22:09;I don't know;I really don't know
+4-5-2022 12:16:00;Computational Science;yes;0;mu;ja;male;I have no idea what you are talking about;21/06/1997;0;no;1;10;7654321;00:30;Applying data mining techniques;Netflix with girlfriend
+4-5-2022 12:16:00;Computer Science;yes;0;mu;ja;male;fat;02-07-1999;1;no;80;20;7;0:00;no class;no homework
+4-5-2022 12:16:00;BA;yes;unknown;mu;nee;female;slim;28;0;no;60;100;7;23:00;no stress from school;go to restaurant
+4-5-2022 12:16:00;cs;yes;1;mu;ja;female;neither;12.10.1994;2;no;80;99;8;1;my cat purs on me;seeing sun in Netherlands
+4-5-2022 12:16:01;Computational Science;no;0;mu;nee;male;I have no idea what you are talking about;27-08-1998;0;no;30;1;80;00:00;Nice weather;Social interaction 
+4-5-2022 12:16:01;Exchange program;yes;0;unknown;ja;female;fat;06.17.1997;0;no;59;60;100;2am;Sunshine;Plan
+4-5-2022 12:16:01;BA;yes;0;mu;ja;male;neither;1-1-1111;0;no;2;12;4;23:00;Sun;BBQ
+4-5-2022 12:16:01;AI;no;0;mu;nee;female;fat;01-04;2;no;60;10;7;23:50;no lecture;no home assignment
+4-5-2022 12:16:01;Python;yes;1;sigma;nee;male;fat;12-11-1998;0;no;25;500;198956654894562566469615;00:25;Good food;Winning the lottery
+4-5-2022 12:16:02;Computational Science;no;1;mu;ja;female;neither;12-03-2004;8;no;23;40;9;22:00;time for myself;bouldering
+4-5-2022 12:16:02;Artificial Intelligence;no;0;mu;ja;female;I have no idea what you are talking about;16 dec;0;no;40;1;5792;23:40;socializing;productivity
+4-5-2022 12:16:02;Econometrics;no;0;mu;ja;female;neither;28-08-1999;0;no;20;-;7;"23;00";Sunny weather;-
+4-5-2022 12:16:02;MSc in AI;no;0;mu;ja;female;neither;13/01/1997;2;no;40;30;5;12.30;Friends;Happy moments
+4-5-2022 12:16:02;CS;yes;0;mu;ja;male;neither;1990;128;no;100;100;8;null;Mood;Weather
+4-5-2022 12:16:02;Master business Analytics;yes;unknown;mu;nee;male;fat;09-08;0;no;20;If I win the the competition I feel like I deserve the total amount. Otherwise 1/the group;172;0100;blue sky with a shiny sun;Knowing i have a spare day
+4-5-2022 12:16:03;AI ;no;0;unknown;ja;male;neither;08/12/1998;1;yes;37;3;8;2;Sun and park;Sun and chill
+4-5-2022 12:16:03;AI;no;0;mu;nee;female;neither;21'12'1995;4;no;1;0;21;23.34;sunshine ;fun stuff on the planning
+4-5-2022 12:16:03;Fin: QRM;no;0;mu;ja;gender fluid;I have no idea what you are talking about;Yesterday;2;yes;102;99;9,13747E+12;To be or not to be?;Wakker worden naast Lieke;Geen ontbijt met Jan
+4-5-2022 12:16:03;Bio informatics and systems biology;yes;0;sigma;nee;male;fat;17-10-2000;5;no;12;0.5;11223344556677889900;2:34;No obligations;Games
+4-5-2022 12:16:03;AI;no;0;mu;nee;female;I have no idea what you are talking about;12/07/1991;1;no;80;1;6;1;SUN;fun
+4-5-2022 12:16:05;Artificial Intelligence;no;0;mu;nee;female;neither;12-12-1997;0;unknown;50;2;88;3;Sunny weather;Feeling in tune with yourself and your surroundings
+4-5-2022 12:16:05;CS;no;0;mu;nee;male;slim;13-08-1999;1;no;50;1;13;1:30;warm weather;not having to get up early
+4-5-2022 12:16:05;AI;no;0;mu;nee;male;fat;1997;0;no;15;5;5;1:00;no work;good food
+4-5-2022 12:16:06;Computational Science ;no;0;mu;nee;female;neither;7-11-1997;4;no;29;50;29;15.00;Coffee;My bed
+4-5-2022 12:16:06;QRM;no;0;mu;ja;male;I have no idea what you are talking about;01/01/91;8;no;80;20;8;23:00;Sun;Food
+4-5-2022 12:16:06;M Artificial Intelligence ;no;0;mu;ja;female;neither;18-06-1999;0;no;72;100/624=0.16;361;23:00;Some love from friends/fam/bf;good food
+4-5-2022 12:16:06;Business Analytics;yes;0;mu;nee;male;I have no idea what you are talking about;05/02/98;0;no;70;1;5;2;good weather;eating
+4-5-2022 12:16:06;MSc Computational Science ;yes;0;mu;ja;male;neither;09-03-1999;2;no;69;4,2;4729264827364547292736464629;02:00;Andrea;DMT
+4-5-2022 12:16:06;Computer Science(joint degree);yes;0;mu;ja;female;fat;1999.08.27;2;no;77;0;77;?;sleep ;food
+4-5-2022 12:16:06;Computer Science;yes;1;mu;ja;male;fat;11041995;0;unknown;32;-2;41;11:45;Cycling;Sunlight
+4-5-2022 12:16:06;BA;yes;1;mu;ja;female;neither;01-10-1998;0;no;40;20;2;0:37;sun;meeting friends
+4-5-2022 12:16:06;Business Analytics;yes;0;mu;nee;female;fat;20may;0;no;45;30;12;10;sport;call my mother
+4-5-2022 12:16:08;AI;no;0;mu;ja;male;fat;18-07-2000;1;no;5;30;4;23:45;Not rain ;Food
+4-5-2022 12:16:08;Artificial Intelligence;yes;1;mu;ja;male;fat;01-05-1994;0;no;10;125;13;23:30;Sun;Feeling good
+4-5-2022 12:16:08;AI Masters;no;unknown;mu;ja;male;I have no idea what you are talking about;15.07.1993;0;no;33;33;sqrt(687458.9665);10;sleeping long;smoke weed
+4-5-2022 12:16:09;Bioinformatics;yes;0;unknown;nee;male;fat;13/04/1999;0;no;30;0.20;11;00:30;Good weather;Going to the gym
+4-5-2022 12:16:09;Bioinformatics and Systems Biology;yes;0;mu;ja;male;fat;24.12;0;yes;50;10;122;2:00;Sunshine;Good food
+4-5-2022 12:16:09;Computational Science;no;0;mu;ja;male;neither;14-07;0;no;10;2;37;23:30;nice weather;free money
+4-5-2022 12:16:09;Artificial Intelligence;yes;1;mu;nee;male;I have no idea what you are talking about;05-06-1998;0;no;70;50;7;3;good weather;good food
+4-5-2022 12:16:09;Biomolecular Sciences;yes;0;unknown;nee;male;fat;20-01-1995;4;no;30;0,2;5;23:00;Doing nothing important;Talking with friends
+4-5-2022 12:16:09;AI;no;0;mu;nee;male;fat;Today;0;no;33;1;2;00:30;Sun;No responsibility
+4-5-2022 12:16:10;AI;yes;1;mu;ja;female;neither;01-01-2000;0;no;81;13;4;3am;No lectures;Sunny weather
+4-5-2022 12:16:10;Computer Science;yes;0;sigma;ja;male;unknown;04-11;0;unknown;10;0;6,96788E+14;5:00 PM;sunlight;No wind
+4-5-2022 12:16:10;Artificial Intelligence;yes;0;mu;ja;female;slim;21.08.1996;0;yes;-100;0.1;∞;2am;Coffee;Sleep
+4-5-2022 12:16:11;E&OR;yes;1;mu;ja;male;neither;10th December;0;no;0;5;10;22:22;Sun;Fun
+4-5-2022 12:16:11;Computational science;yes;0;sigma;nee;male;fat;01/08/1995;2;yes;19;100;27;12;sun;sport
+4-5-2022 12:16:11;Business Analytics;yes;0;mu;nee;male;neither;08.12.1997;5;no;50;0.25€;8;01 AM;Good food;Nice whether 
+4-5-2022 12:16:11;MSc Artificial Intelligence;yes;1;mu;ja;male;fat;14-06-1999;1;no;10;0.16;6;00:15;Sunny weather;Exercise
+4-5-2022 12:16:11;Master AI;yes;1;sigma;ja;male;neither;18-12-1992;0;no;100;1000000;69;22.00;thuisbezorgd;gaming
+4-5-2022 12:16:11;MSc Bioinformatics and Systems Biology ;no;0;mu;unknown;male;slim;14/11/1997;2;no;80;30;333;1 am;Lots of food;Going out in a sunny day
+4-5-2022 12:16:11;Computer Science;yes;1;mu;ja;male;fat;23/04/1998;2;no;80;Definately;10;22:00;Win lottery;Win lottery again
+4-5-2022 12:16:11;Bioinformatics and Systems Biology;yes;0;mu;nee;female;neither;11.09.1997;1;no;0;5;5;:);sun;exercise
+4-5-2022 12:16:12;Computational Science;no;unknown;mu;ja;female;neither;03 Feb 1999;0;no;30;1;34567;??;Weather;Good people
+4-5-2022 12:16:14;Quantitative Risk Management;no;0;mu;nee;male;I have no idea what you are talking about;07 June;8;no;69;100 euros divided over 600 students. 0.6 euros;6665437996;23:56;Cake;Cookies
+4-5-2022 12:16:15;AI Cognitive Science Track;no;0;mu;nee;male;slim;11th;Im in the web;yes;80;5 euro to buy previously mentioned chocolate;6;about 1am;Workout; progress in the course
+4-5-2022 12:16:17;AI;yes;1;mu;ja;male;neither;is prive;0;no;5;0;dont tell me what to do;?;studying;learning
+4-5-2022 12:16:18;AI;yes;0;mu;nee;male;neither;1989.9.2;4;no;80;70;9;9:00;food;sleep
+4-5-2022 12:16:19;Economtrics;yes;1;mu;ja;male;neither;16-08-1998;0;no;25;0.25 cents;42;00:15;Being productive;Listening/making music
+4-5-2022 12:16:19;BA;yes;1;mu;ja;female;neither;May 15th;1;no;80;50;7;0;having a productive day;being with friends/family
+4-5-2022 12:16:19;Computational science;no;0;mu;ja;male;neither;20 December;1;yes;12;110;10;01:30;Beer;Sleep
+4-5-2022 12:16:19;Artificial Intelligence;yes;0;mu;nee;male;fat;31/5;2;no;30;1 euro;5;01 AM;Nice dinner;Netflix
+4-5-2022 12:16:20;CS Big Data Engineering ;yes;1;mu;ja;not willing to answer;slim;33th;8;unknown;100;99;83947;?;Music;Neat room
+4-5-2022 12:16:20;EOR;yes;0;mu;ja;female;neither;03-08-1999;1;no;25;5;8;23:30;Friends;Drinks
+4-5-2022 12:16:20;AI;yes;0;mu;ja;female;slim;2nd July;2;yes;30;8;32;3AM;Winkel apple pie;Friends
+4-5-2022 12:16:20;Computer Science;no;1;mu;ja;male;neither;27/10;3;no;75;40;6;7;Wake up late;breakfast
+4-5-2022 12:16:22;CLS;no;1;mu;nee;female;I have no idea what you are talking about;24.04.1996;6;unknown;70;yo;56;23;smiles;more smiles
+4-5-2022 12:16:22;AI;no;0;mu;nee;female;I have no idea what you are talking about;29-05-1998;8;unknown;30;50;8;11;Smile;Laugh
+4-5-2022 12:16:23;Artificial Intelligence;no;0;mu;nee;female;fat;17.02.1996;12;no;99;50;9;4;Having coffee;breakfast
+4-5-2022 12:16:24;Computational Science;no;0;mu;nee;female;neither;02-22-2222;3;unknown;30;50;7;00:30;Cat;Food
+4-5-2022 12:16:26;Human Language Technology;yes;0;mu;nee;female;neither;25.02.98;1;yes;15;85;42;2 am;Sunshine;Good food
+4-5-2022 12:16:27;Computational Science;no;0;mu;ja;female;neither;02-06-1996;0;no;70;75;53;11:00 PM;insightful things;not thinking about tomorrow 
+4-5-2022 12:16:28;Artificial Intelligence;no;0;mu;ja;male;neither;15-6-1998;0;no;66;5;487;3:00;A good sleep;Staying with my best friends
+4-5-2022 12:16:29;EOR;no;0;mu;ja;male;neither;18-08-1999;5;no;10;2.5;8;1:30 AM;Friends;Drinks
+4-5-2022 12:16:29;MSc Artificial Intelligence;yes;0;mu;nee;female;fat;12.05.2001;0;unknown;87;i don't understand;42;1:45;breakfast;going outside
+4-5-2022 12:16:29;Computer science ;no;0;mu;ja;male;I have no idea what you are talking about;10-11-97;1;no;50;100;11;9;Time with family and friends ;Good news 
+4-5-2022 12:16:35;Econometrics and Operations Research;no;1;mu;ja;male;I have no idea what you are talking about;Somewhere in May;0;no;45.8;100;47895734;23;Food;Food
+4-5-2022 12:16:35;Master Artificial intelligence;no;0;mu;ja;female;neither;29-11;5;no;10;15;2;23:00;Sunny;Meet friends
+4-5-2022 12:16:35;VU Master of AI;no;0;mu;nee;male;neither;14 Feb 1982;2;no;70;75;666;11:50pm;Good sleep, good sport;Good study
+4-5-2022 12:16:39;AI;no;0;sigma;nee;not willing to answer;I have no idea what you are talking about;03-02-2000;0;no;100;I don't understand the question;893;00:15;do my thing and gym;lover's kiss
+4-5-2022 12:16:49;MSc Computer Science;no;0;sigma;nee;female;I have no idea what you are talking about;11/06/1997;2;no;70;100;11;00:00;A warm sunny day with no stress;I answered it already
+4-5-2022 12:16:50;Economics;yes;0;mu;nee;not willing to answer;fat;32-12;8;no;101;99;99;3;good;no school
+4-5-2022 12:16:50;MPA;unknown;1;mu;ja;male;I have no idea what you are talking about;3-3-2000;1;yes;50;50;7;00:30 o'clock;sunshine;drinks
+4-5-2022 12:16:52;Business Analytics;yes;1;sigma;ja;male;slim;16-7-2022;0;no;0;100;30;0:30;Enough time for relaxing;Being productive
+4-5-2022 12:16:54;Quantitative Risk Management;no;0;mu;nee;male;I have no idea what you are talking about;29th of April 2001;Quattro;no;Fifty;Sixty at least;548293748291457322680525896237;11pm;A nice calming Data Mining lecture;A cool glass of water
+4-5-2022 12:16:57;Computational Science;no;0;mu;nee;male;neither;19/01;0;no;2;50;235236236;12:44;food;sleep
+4-5-2022 12:16:59;Computational Science;no;0;mu;nee;not willing to answer;slim;1.2.2003;2;unknown;50;0.4€;222.223;3;Lemons;Lemonade
+4-5-2022 12:17:03;Computational Science(CLS);no;0;mu;nee;male;neither;11/01/1996;0;yes;50;100;8;13:30;Good sleep;Something to achieve in the day
+4-5-2022 12:17:10;Computational Science;no;0;mu;nee;male;fat;7 february;1;no;65;100/n (n=number of Data-Mining students);50;1:00;having fun;a nice meal
+4-5-2022 12:17:11;BA;yes;0;mu;nee;male;neither;16-10-1990;2;no;10;0;7;00:30;Silence;Warm weather
+4-5-2022 12:17:19;AI;yes;0;mu;nee;male;neither;6/9;0;no;30;20;73;2350;Clear skies;Chill music
+4-5-2022 12:18:02;BA;yes;1;mu;ja;male;I have no idea what you are talking about;29/04/1998;0;no;0;98;626;02h00;Ether in the green;Coffee
+4-5-2022 12:18:28;Computer Science ;no;0;mu;ja;male;fat;28/03;1;no;38;30;42;2300;Come up with a good question;Find a solution to the good question
+4-5-2022 12:19:12;Computer Science;yes;0;sigma;ja;male;neither;9th April 1999;1;no;50;100;69420;2 am;A good gym session;Good food
+4-5-2022 12:19:23;Data mining;yes;1;mu;ja;female;fat;16-02-1998;0;no;1;10;37;2;Good weather;Bad weather
+4-5-2022 12:19:33;Computational Science;no;0;mu;ja;male;neither;23.05.1998;4;no;80;101;29;2am;have enough sleep;make progress in anything
+4-5-2022 12:19:43;Artificial intelligence;unknown;0;mu;ja;female;fat;20-09-1995;zero;no;private matters;I will pretend to be a communist, 100/600;9;6 hours, plenty;happiness comes from within, but mental stimulation is always appreciated;be healthy, having a growth mindset, mental stimulation (dopamine), exercise (endorphins), hugs (oxytocin), sunlight (serotine)
+4-5-2022 12:20:41;Masters in Artificial intelligence ;yes;1;mu;ja;male;neither;17/06/98;1;no;42;50;8;-;Quality time spent;Being more productive 
+4-5-2022 12:20:49;Computational science ;no;0;sigma;nee;male;slim;29/07/1998;1;unknown;10;100;6969;11:30;Sex;Sex
+4-5-2022 12:20:58;BISB;yes;0;mu;nee;male;fat;04-01-1997;0;no;60;1000;56;00:00;Sunny weather;No obligations
+4-5-2022 12:21:03;Biomedical science;no;0;sigma;nee;female;slim;not willing to tell;4;no;20;200;375;11.20;Sunshi;Sunshine
+4-5-2022 12:21:16;CS;yes;unknown;sigma;ja;male;fat;1996-08-22;1;no;60;More than the even share;420;1am;Coffee in the morning;Hanging out with friends
+4-5-2022 12:24:33;Masters in Artificial Intelligence;yes;1;mu;ja;male;I have no idea what you are talking about;23rd January;0;unknown;0;100;007;what?;no idea;still no idea
+4-5-2022 12:28:09;Bioinformatics;no;0;mu;nee;male;fat;11/03;0;no;62;100;-34,67;1:30AM;Getting work done ;Doing sports (climbing)
+4-5-2022 12:33:59;Masters Bioinformatics ;yes;0;unknown;nee;male;neither;June;0;no;40;0;9;1:00;Highly productive ;Time with friends 
+4-5-2022 12:34:30;Artificial Intelligence;no;0;mu;ja;female;neither;13;0;no;50;100;75;2.30;Sunshine;Nice food
+4-5-2022 12:35:31;Ai;yes;1;unknown;nee;not willing to answer;fat;1/1/1956;2;no;30;99;6;5;Yes;No
+4-5-2022 12:37:05;E;yes;1;mu;ja;male;slim;9;9;yes;9;5;0;9;9;9
+4-5-2022 12:41:59;MSc Computational Science;no;0;mu;nee;male;I have no idea what you are talking about;17/07/1995;0;no;666;1;123;555;Good food;Sleep more than 6 hours 
+4-5-2022 12:54:39;Artificial Intelligence;yes;0;mu;nee;not willing to answer;neither;17;0;yes;70;87;7;0;nice weather;good mood
+4-5-2022 13:27:19;Business Analytics;yes;1;mu;ja;male;neither;12/05/1998;0;no;66;0;789458455584851844184;04:00 AM;-;-
