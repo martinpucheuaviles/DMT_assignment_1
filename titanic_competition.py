@@ -22,19 +22,27 @@ def main():
     # print("Empty values per column: \n",titanic.training_df.isnull().sum()) # -> Age: 177 , Cabin: 687, Embarked: 2
 
     #drop column name
-    titanic.training_df = titanic.drop_column(titanic.training_df,'Name')
+    # titanic.training_df = titanic.drop_column(titanic.training_df,'Name')
     # mining_titanic.drop_column('Cabin') #TODO DELETE THIS
     
     # #Check outcome class distribution (survived), it shouls be close to 50:50
     # print("\n",titanic.training_df['Survived'].value_counts()) # 549:342 -> no to close to 50:50. MEANING? classifiers wont be optimal?
     
     # #scale numerical data 
-    titanic.training_df = titanic.scale_numeric_columns(titanic.training_df, ['Pclass', 'Age', 'SibSp', 'Parch', 'Fare'])
+    # titanic.training_df = titanic.scale_numeric_columns(titanic.training_df, ['Pclass', 'Age', 'SibSp', 'Parch', 'Fare'])
+    # titanic.training_df = titanic.scale_numeric_columns(titanic.training_df, ['Pclass', 'Age', 'SibSp', 'Parch'])
+    titanic.training_df = titanic.scale_numeric_columns(titanic.training_df, ['Age'])
+
+    titanic.quantile_discretization_columns(titanic.training_df,num_quantiles=4,col="Fare",labels=["4th","3rd","2nd","1st"])
 
     # #pre process categorical data
-    titanic.training_df = titanic.encode_categorical_columns(titanic.training_df,['Sex','Embarked'])
+    titanic.training_df = titanic.encode_categorical_columns(titanic.training_df,['Sex','Embarked','Fare'])
+
+    #Combine two columns into one: Family_size  = SibSp + Parch
+    titanic.sum_two_columns(titanic.training_df,new_col_name="Family Size",first_col="SibSp",second_col="Parch")
 
     # # encode string columns to numerical value (for column with a lot of classes)
+    titanic.training_df = titanic.encode_string_into_incremental_column(titanic.training_df,['Name'])
     titanic.training_df = titanic.encode_string_into_incremental_column(titanic.training_df,['Ticket'])
     titanic.training_df = titanic.encode_string_into_incremental_column(titanic.training_df,['Cabin'])
     
@@ -44,7 +52,7 @@ def main():
     # #Set cross validation sets. Split our data into two dataset, training and testing. Ratio of 80:20 for training and testing respectively
     titanic.set_cross_validation_sets('Survived',0.2)
 
-    print("After Preproccessing Training Data: \n",titanic.training_df.head())
+    print("\n\nAfter Preproccessing Training Data: \n",titanic.training_df.head(20))
    
 
     """ #######################################################
@@ -75,21 +83,27 @@ def main():
         P R E - P R O C E S S   T E S T   D A T A 
         #######################################################"""
     # print("Empty values per column: \n",titanic.test_df.isnull().sum()) # -> Age: 86 , Cabin: 327, Fare 1
-    titanic.test_df = titanic.drop_column(titanic.test_df,'Name')
+    # titanic.test_df = titanic.drop_column(titanic.test_df,'Name')
 
-    titanic.test_df = titanic.scale_numeric_columns(titanic.test_df, ['Pclass', 'Age', 'SibSp', 'Parch', 'Fare'])
-    titanic.test_df = titanic.encode_categorical_columns(titanic.test_df,['Sex','Embarked'])
+    titanic.test_df = titanic.scale_numeric_columns(titanic.test_df, ['Age'])
+    titanic.test_df = titanic.quantile_discretization_columns(titanic.test_df,num_quantiles=4,col="Fare",labels=["4th","3rd","2nd","1st"])
+    titanic.test_df = titanic.encode_categorical_columns(titanic.test_df,['Sex','Embarked','Fare'])
+
+    titanic.test_df = titanic.sum_two_columns(titanic.test_df,new_col_name="Family Size",first_col="SibSp",second_col="Parch")
+    
+    
+    titanic.test_df = titanic.encode_string_into_incremental_column(titanic.test_df,['Name'])
     titanic.test_df = titanic.encode_string_into_incremental_column(titanic.test_df,['Ticket'])
     titanic.test_df = titanic.encode_string_into_incremental_column(titanic.test_df,['Cabin'])
     titanic.test_df = titanic.completing_nan_values(titanic.test_df,["Age"])
-    titanic.test_df = titanic.completing_nan_values(titanic.test_df,["Fare"])
     
-    # titanic.test_df.dropna(subset = ["Fare"], inplace=True) # eliminates 1 row with empty Fare
+    # titanic.test_df = titanic.completing_nan_values(titanic.test_df,["Fare"])
+    
     titanic.test_df['Embarked_nan'] = 0.0 #adds a column Embarked_nan to match training data. In the training df, Embarked_nan its created when encoding Embarked column
     titanic.test_df['Survived'] = 0 # only to being able to re ordering column. will drop this column later
     
     # print("\n\n",titanic.training_df.head())
-    # print("\n\n",titanic.test_df.head())
+    print("\n\n",titanic.test_df.head(10))
 
     titanic.test_df = titanic.test_df[titanic.training_df.columns] #re order test columns to be equal to train
     titanic.test_df = titanic.drop_column(titanic.test_df,'Survived') #drop artificial column
@@ -108,6 +122,7 @@ def main():
     # prediction = pd.DataFrame(rand_forest_predict, columns=['Survived']).astype(int)
 
     naive_bayes_predict = titanic.predict(naive_bay_model)
+    
     prediction = pd.DataFrame(naive_bayes_predict, columns=['Survived']).astype(int)    
 
     passengerID_column = titanic.test_df['PassengerId']
@@ -117,7 +132,12 @@ def main():
     # print("\n\nNAIVE BAYES PREDICTION: \n",titanic.predict(naive_bay_model),"\n")
     # print("\n\nK_NEAREST PREDICTION: \n",titanic.predict(k_nearest_model),"\n")
 
-    out_file = Path("data") / "out_predict.csv"
+    
+    # out_file = Path("data") / "out_decision_tree.csv"
+    # out_file = Path("data") / "out_random_forest.csv"
+    out_file = Path("data") / "out_naive_bayes.csv"
+    # out_file = Path("data") / "out_random_forest.csv"
+    
     concat.to_csv(out_file, index=False)    
 
 if __name__ == "__main__":

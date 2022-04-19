@@ -1,3 +1,4 @@
+from cProfile import label
 from jinja2 import Undefined
 import pandas as pd
 from tabulate import tabulate
@@ -96,6 +97,15 @@ class DataMiningMachine:
 
         return df
 
+    def quantile_discretization_columns(self,df,col,num_quantiles,labels):
+        """
+        Quantile-based discretization of continous numeric column
+        """
+
+        df[col]  = pd.qcut(df[col],q=num_quantiles,labels=labels)
+
+        return df
+
     def completing_nan_values(self,df,cols):
         """
         Completing missing numerical values (NaN) from columns. NaN values are replaced by the column's mean
@@ -103,7 +113,8 @@ class DataMiningMachine:
             @string_cols:  (list of column indexes) string columns to complete
 
         """
-        imp_mean = SimpleImputer(missing_values=np.nan, strategy='mean')
+        # imp_mean = SimpleImputer(missing_values=np.nan, strategy='mean')
+        imp_mean = SimpleImputer(missing_values=np.nan, strategy='median')
         
         imp_mean = imp_mean.fit(df[cols])
 
@@ -111,6 +122,12 @@ class DataMiningMachine:
 
         return df
 
+    def sum_two_columns(self,df,new_col_name,first_col,second_col):
+        
+        df.apply(lambda row: row[first_col] + row[second_col], axis=1)
+        df[new_col_name] = df.apply(lambda row: row[first_col] + row[second_col], axis=1)
+
+        return df
     def set_cross_validation_sets(self,target_col,size):
         # Select Features
         feature = self.training_df.drop(target_col, axis=1)
@@ -123,8 +140,6 @@ class DataMiningMachine:
                                                             test_size=size, 
                                                             random_state=1)
 
-        print("\n\nXtrain:\n",self.X_train.head())
-        # print("\n\nytrain:\n",self.y_train)
         # Show the Training and Testing Data
         # print('Shape of training feature:', self.X_train.shape)
         # print('Shape of testing feature:', self.X_test.shape)
