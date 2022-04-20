@@ -31,7 +31,9 @@ class DataMiningMachine:
     
     def drop_column(self,df,column):
         
-        return df.drop(column, axis=1)
+        df = df.drop(column, axis=1)
+        
+        return df
 
     def scale_numeric_columns(self,df,num_cols):
         """
