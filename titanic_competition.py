@@ -36,6 +36,7 @@ def main():
     titanic.quantile_discretization_columns(titanic.training_df,num_quantiles=4,col="Fare",labels=["4th","3rd","2nd","1st"])
 
     # #pre process categorical data
+    print("Empty values per column: \n",titanic.training_df.isnull().sum()) # -> Age: 177 , Cabin: 687, Embarked: 2
     titanic.training_df = titanic.encode_categorical_columns(titanic.training_df,['Sex','Embarked','Fare'])
 
     #Combine two columns into one: Family_size  = SibSp + Parch
@@ -50,7 +51,8 @@ def main():
     titanic.training_df = titanic.completing_nan_values(titanic.training_df,["Age"])
 
     # #Set cross validation sets. Split our data into two dataset, training and testing. Ratio of 80:20 for training and testing respectively
-    titanic.set_cross_validation_sets('Survived',0.2)
+    
+    titanic.set_cross_validation_sets('Survived',0.125) # 0.15 optimal until now
 
     print("\n\nAfter Preproccessing Training Data: \n",titanic.training_df.head(20))
    
@@ -114,31 +116,30 @@ def main():
         M A K E   P R E D I C T I O N S
         #######################################################"""
 
-    #create prediction
-    dec_tree_predict = titanic.predict(dec_tree_model)
-    # prediction = pd.DataFrame(dec_tree_predict, columns=['Survived']).astype(int)
-
-    rand_forest_predict = titanic.predict(dec_tree_model)
-    # prediction = pd.DataFrame(rand_forest_predict, columns=['Survived']).astype(int)
-
-    naive_bayes_predict = titanic.predict(naive_bay_model)
+    #create predictions
+    dec_tree_prediction     = pd.DataFrame(titanic.predict(dec_tree_model), columns=['Survived']).astype(int)
+    rand_forest_prediction  = pd.DataFrame(titanic.predict(rand_forest_model), columns=['Survived']).astype(int)
+    naive_bayes_prediction  = pd.DataFrame(titanic.predict(naive_bay_model), columns=['Survived']).astype(int)
+    k_nearest_prediction    = pd.DataFrame(titanic.predict(k_nearest_model), columns=['Survived']).astype(int)
     
-    prediction = pd.DataFrame(naive_bayes_predict, columns=['Survived']).astype(int)    
-
     passengerID_column = titanic.test_df['PassengerId']
 
-    concat = prediction.merge(passengerID_column.to_frame(), left_index=True, right_index=True)
-    # print("\n\nRANDOM FOREST PREDICTION: \n",titanic.predict(rand_forest_model),"\n")
-    # print("\n\nNAIVE BAYES PREDICTION: \n",titanic.predict(naive_bay_model),"\n")
-    # print("\n\nK_NEAREST PREDICTION: \n",titanic.predict(k_nearest_model),"\n")
+    dec_tree_out_df    = dec_tree_prediction.merge(passengerID_column.to_frame(), left_index=True, right_index=True)
+    rand_forest_out_df = rand_forest_prediction.merge(passengerID_column.to_frame(), left_index=True, right_index=True)
+    naive_bayes_out_df = naive_bayes_prediction.merge(passengerID_column.to_frame(), left_index=True, right_index=True)
+    k_nearest_out_df   = k_nearest_prediction.merge(passengerID_column.to_frame(), left_index=True, right_index=True)
+    
+    suffix = "_xv15.csv"
 
+    dec_tree_out_file = Path("data") / ("out_decision_tree"+suffix)
+    rand_forest_out_file = Path("data") / ("out_random_forest"+suffix)
+    naive_bayes_out_file = Path("data") / ("out_naive_bayes"+suffix)
+    k_nearest_out_file = Path("data") / ("out_k_nearest"+suffix)
     
-    # out_file = Path("data") / "out_decision_tree.csv"
-    # out_file = Path("data") / "out_random_forest.csv"
-    out_file = Path("data") / "out_naive_bayes.csv"
-    # out_file = Path("data") / "out_random_forest.csv"
-    
-    concat.to_csv(out_file, index=False)    
+    dec_tree_out_df.to_csv(dec_tree_out_file, index=False)    
+    rand_forest_out_df.to_csv(rand_forest_out_file, index=False)    
+    naive_bayes_out_df.to_csv(naive_bayes_out_file, index=False)    
+    k_nearest_out_df.to_csv(k_nearest_out_file, index=False)    
 
 if __name__ == "__main__":
     main()
